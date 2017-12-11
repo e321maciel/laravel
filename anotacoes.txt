@@ -1,0 +1,25 @@
+CS2160145355 - numero de usuario  - macafee
+78JER28M6PJ3WUH - numero de serie
+
+
+trblho de web
+
+parte teorica
+- fundamentos de framework
+- 
+- fundamentos de microframework
+
+- pq escolhemos flask
+
+parte prática:
+
+
+- montar o ambiente e explicação do workflow
+
+- explicação da aplicação e pensamento na lógica
+
+- code maker
+
+fonte:
+http://blog.liveedu.tv/django-flask-pyramid-framework-python/
+kmspico
